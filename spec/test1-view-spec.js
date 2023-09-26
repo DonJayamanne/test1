@@ -7,3 +7,4 @@ describe('Test1View', () => {
     expect('life').toBe('easy');
   });
 });
+// sample changes
